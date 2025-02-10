@@ -1,6 +1,6 @@
-# Hair Day 💇🏻‍♀️
+# HairDay 💇🏻‍♀️
 
-Hair Day is a web application designed to help salons manage their hair cutting schedules. The application allows salon administrators to create and edit appointments, as well as view their schedules, making it easier to manage their daily operations.
+HairDay is a web application designed to help salons manage their hair cutting schedules. The application allows salon administrators to create and edit appointments, as well as view their schedules, making it easier to manage their daily operations.
 
 <br><br>
 
