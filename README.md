@@ -2,7 +2,7 @@
 
 HairDay is a web application designed to help salons manage their hair cutting schedules. The application allows salon administrators to create and edit appointments, as well as view their schedules, making it easier to manage their daily operations.
 
-<br><br>
+<br>
 
 ## Layout 🎨
 
@@ -10,7 +10,7 @@ The layout for this project was created by Rocketseat using Figma. You can view 
 
 The layout showcases the structure, color scheme, and visual design of the web application, providing a clear reference for the development of the project.
 
-<br><br>
+<br>
 
 ## Features ✨
 
@@ -21,8 +21,7 @@ The layout showcases the structure, color scheme, and visual design of the web a
 	+ Filter by selected day
 * User-friendly interface for salon administrators
 
-
-<br><br>
+<br>
 
 ## Project Structure 🗂️
 
@@ -52,7 +51,7 @@ The layout showcases the structure, color scheme, and visual design of the web a
        - Example file: `opening-hours.js`.
      - **`main.js`**: The main JavaScript file that initializes the application and may include the logic to render components or handle routing.
 
-<br><br>
+<br>
 
 ## Getting Started 🚀
 
@@ -77,7 +76,7 @@ npm run server
 npm run dev
 ```
 
-<br><br>
+<br>
 
 ## Contributing 🤝
 
