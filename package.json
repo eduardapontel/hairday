@@ -6,7 +6,6 @@
         "build": "webpack",
         "dev": "webpack serve",
         "server": "json-server --watch server.json --port 3333",
-        "predeploy": "npm run build",
         "deploy": "gh-pages -d dist"
     },
     "homepage": "https://eduardapontel.github.io/hairday",
