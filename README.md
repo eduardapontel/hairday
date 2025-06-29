@@ -55,9 +55,7 @@ The layout showcases the structure, color scheme, and visual design of the web a
 
 ## Getting Started 🚀
 
-- Access it directly by clicking [here](https://eduardapontel.github.io/hairday/).
-
-**Or** follow the steps below to run it locally:
+Follow the steps below to run it locally:
 
 1. Clone the repository
 
