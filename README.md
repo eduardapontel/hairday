@@ -53,9 +53,11 @@ The layout showcases the structure, color scheme, and visual design of the web a
 
 <br>
 
-## Getting Started 🚀
+## How to Access the Project  🚀
 
-- Access it directly by clicking [here](https://eduardapontel.github.io/hairday).
+Access it directly by clicking [here](https://eduardapontel.github.io/hairday).
+
+<br>
 
 **Or** follow the steps below to run it locally:
 
