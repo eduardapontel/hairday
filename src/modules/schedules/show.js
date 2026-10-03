@@ -10,6 +10,10 @@ export function schedulesShow({ dailySchedules }) {
         afternoon.innerHTML = '';
         night.innerHTML = '';
 
+        dailySchedules.sort((a, b) => {
+            return dayjs(a.when).isBefore(dayjs(b.when)) ? -1 : 1;
+        });
+
         dailySchedules.forEach((schedule) => {
             const item = document.createElement('li');
             const time = document.createElement('strong');
