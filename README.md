@@ -6,7 +6,7 @@ HairDay is a web application that simulates an appointment scheduling system for
 
 ## Layout 🎨
 
-The layout for this project was created by Rocketseat using Figma. You can view the layout file and its components by visiting the following link: [Figma Layout](https://www.figma.com/design/gsdlfC87LzvAvBb6mewOQi/Plataforma-de-agendamento-(Community)?node-id=0-1&p=f&m=dev).
+The layout for this project was created by Rocketseat using Figma. You can view the layout file and its components by visiting the following link: [Figma Layout](https://www.figma.com/community/file/1360316357733167308/plataforma-de-agendamento).
 
 The layout showcases the structure, color scheme, and visual design of the web application, providing a clear reference for the development of the project.
 
