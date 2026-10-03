@@ -1,6 +1,6 @@
 # HairDay 💇🏻‍♀️
 
-HairDay is a web application designed to help salons manage their hair cutting schedules. The application allows salon administrators to create and edit appointments, as well as view their schedules, making it easier to manage their daily operations.
+HairDay is a web application that simulates an appointment scheduling system for a beauty salon. It allows users to create, delete, and view appointments organized into morning, afternoon, and evening schedules.
 
 <br>
 
@@ -14,12 +14,12 @@ The layout showcases the structure, color scheme, and visual design of the web a
 
 ## Features ✨
 
-* Create and edit appointments
+* Create and delete appointments
 * View schedules, including:
 	+ Scheduled appointments
 	+ Available time slots
 	+ Filter by selected day
-* User-friendly interface for salon administrators
+* User-friendly interface 
 
 <br>
 
@@ -37,19 +37,19 @@ The layout showcases the structure, color scheme, and visual design of the web a
      - **`assets/`**: Contains static assets such as images and icons used in the application.
        - Example files: `logo.svg`, `calendar.svg`, `scissors.svg`, etc.
      - **`libs/`**: Contains third-party libraries or custom utility libraries.
-       - Example file: `dayjs.js` (likely a date manipulation library).
+       - Example file: `dayjs.js` (date manipulation library).
      - **`modules/`**: Contains different modules or components of the application.
        - **`form/`**: Contains files related to form handling.
          - Example files: `date-change.js`, `submit.js`, etc.
        - **`schedules/`**: Contains files related to schedule management.
          - Example files: `load.js`, `show.js`, etc.
-     - **`services/`**: Contains service files that handle API calls or business logic.
+     - **`services/`**: Contains files that handle API calls.
        - Example files: `api-config.js`, `new-schedule.js`, etc.
      - **`styles/`**: Contains CSS files for styling the application.
        - Example files: `form.css`, `global.css`, etc.
      - **`utils/`**: Contains utility functions that can be reused across the application.
        - Example file: `opening-hours.js`.
-     - **`main.js`**: The main JavaScript file that initializes the application and may include the logic to render components or handle routing.
+     - **`main.js`**: The main JavaScript file that initializes the application and imports the other files.
 
 <br>
 
